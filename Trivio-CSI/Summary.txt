@@ -1,0 +1,18 @@
+It is a website that provides users with a quiz conduction platform that is user-friendly and fun.
+
+It allows the users to log in and register. (In 2 ways, quiz taker & creator)
+
+For Taker :-
+
+It allows the users to log in and register.
+After this, it allows the user to enter a unique code to go to a particular quiz.
+All quizzes are made up of MCQs.
+The user submits all the answers, and the responses are recorded (sent to the mail?)
+Each quiz has a timer, a reset button, and a submit button.
+After submission, the correct answers and score are displayed to the user.
+
+It also allows the user to add friends and makes a leaderboard.
+It also offers a number of quizzes open to anyone with an account without the need for a code. (on the homepage)
+The user can save these to his library.
+The user can flag or report a question.
+
